@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Residuo
+  - Obstaculo
+  - Animales_Presos
+  - Scenery
+  - AP_tortuga
+  - AP_cangrejo
+  - Basura
+  - Premio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - NivelI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1082047665
+    locked: 0
+  - name: Medio
+    uniqueID: 1548385095
+    locked: 0
+  - name: Adelante
+    uniqueID: 3306807833
+    locked: 0
